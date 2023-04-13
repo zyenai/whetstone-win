@@ -61,7 +61,7 @@
         {"name": "notepadplusplus-textfx.fireeye"},
         {"name": "hxd.fireeye"},
         {"name": "burp.free.fireeye"},
-        {"name": "ida-free"},
+        {"name": "ida-free.flare"},
         {"name": "010editor.flare"},
         {"name": "dnsd.flare"}
     ]
